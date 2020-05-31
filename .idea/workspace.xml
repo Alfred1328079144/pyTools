@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="983b3ac2-e893-444d-b001-bf8cfca178d1" name="Default Changelist" comment="upload python tools">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindAlign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XmlHandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datafilterbasedSRAlign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findText.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forceAlignPrepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newAlignProcess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npytotext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quchogn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_rawdata_from_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updateAlign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updateAlignByLine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/updateAlignbyTxt.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\v-chzh12\PycharmProjects\Test\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WKkY22cs2k2cxH4YtHemZpbOV8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\v-chzh12\PycharmProjects\Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.updateAlignByLine">
+    <configuration name="audiobookmergedata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/audiobookmergedata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="npytotext" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\v-chzh12\PycharmProjects\test3.6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/npytotext.py" />
+      <option name="PARAMETERS" value="D:\workspace\drop\1\testsamples0510 jajp 120k" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="updateAlign" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\v-chzh12\PycharmProjects\test3.6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/updateAlign.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="updateAlignByLine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\v-chzh12\PycharmProjects\test3.6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/updateAlignByLine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="updateAlignbyTxt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\v-chzh12\PycharmProjects\test3.6\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/updateAlignbyTxt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.npytotext" />
+      <item itemvalue="Python.updateAlign" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.audiobookmergedata" />
+      <item itemvalue="Python.updateAlignbyTxt" />
+      <item itemvalue="Python.updateAlignByLine" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.updateAlignByLine" />
+        <item itemvalue="Python.updateAlignbyTxt" />
+        <item itemvalue="Python.updateAlign" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.audiobookmergedata" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\v-chzh12\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="983b3ac2-e893-444d-b001-bf8cfca178d1" name="Default Changelist" comment="" />
+      <created>1578905718214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578905718214</updated>
+      <workItem from="1578905742482" duration="1111000" />
+      <workItem from="1579142136850" duration="71000" />
+      <workItem from="1579410000518" duration="477000" />
+      <workItem from="1581496205596" duration="725000" />
+      <workItem from="1581497727568" duration="4124000" />
+      <workItem from="1582821359387" duration="2333000" />
+      <workItem from="1582859811507" duration="3783000" />
+      <workItem from="1583223465391" duration="102000" />
+      <workItem from="1583487125871" duration="20693000" />
+      <workItem from="1584069617860" duration="2355000" />
+      <workItem from="1584110531628" duration="17983000" />
+      <workItem from="1584693683440" duration="6000" />
+      <workItem from="1584763825558" duration="1250000" />
+      <workItem from="1584767528429" duration="643000" />
+      <workItem from="1584955850449" duration="1000000" />
+      <workItem from="1585028565132" duration="929000" />
+      <workItem from="1585538023695" duration="634000" />
+      <workItem from="1585555300604" duration="1116000" />
+      <workItem from="1585625803323" duration="298000" />
+      <workItem from="1585626114210" duration="4000" />
+      <workItem from="1585714232107" duration="714000" />
+      <workItem from="1585721502721" duration="401000" />
+      <workItem from="1585845180548" duration="201000" />
+      <workItem from="1586147381147" duration="166000" />
+      <workItem from="1586413800607" duration="1166000" />
+      <workItem from="1586421347389" duration="52242000" />
+      <workItem from="1587017286964" duration="3323000" />
+      <workItem from="1587375353811" duration="69633000" />
+      <workItem from="1588693452492" duration="20000" />
+      <workItem from="1589125260092" duration="1751000" />
+      <workItem from="1589529115322" duration="2053000" />
+      <workItem from="1589642300458" duration="39715000" />
+    </task>
+    <task id="LOCAL-00001" summary="upload python tools">
+      <created>1590910980349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590910980349</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload python tools" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload python tools" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="206" key="#Deployment" timestamp="1590910895448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="206" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1590910895448" />
+    <state x="256" y="173" width="1092" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589181313109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="256" y="173" width="1092" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589181313109" />
+    <state x="836" y="420" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586499979791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="420" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586499979791" />
+    <state x="515" y="138" key="#npytotext" timestamp="1589125329182">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="515" y="138" key="#npytotext/0.0.1920.1040@0.0.1920.1040" timestamp="1589125329182" />
+    <state x="775" y="125" key="#updateAlign" timestamp="1589867919372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="125" key="#updateAlign/0.0.1920.1040@0.0.1920.1040" timestamp="1589867919372" />
+    <state x="731" y="136" key="#updateAlignByLine" timestamp="1590045697541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="136" key="#updateAlignByLine/0.0.1920.1040@0.0.1920.1040" timestamp="1590045697541" />
+    <state x="548" y="143" key="#updateAlignbyTxt" timestamp="1589905474872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="548" y="143" key="#updateAlignbyTxt/0.0.1920.1040@0.0.1920.1040" timestamp="1589905474872" />
+    <state x="441" y="227" key="#xdebugger.evaluate" timestamp="1582822444018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="441" y="227" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1582822444018" />
+    <state x="409" y="133" width="1120" height="812" key="CommitChangelistDialog2" timestamp="1590911393779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="409" y="133" width="1120" height="812" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590911393779" />
+    <state x="234" y="118" key="DiffContextDialog" timestamp="1590911582156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="234" y="118" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590911582156" />
+    <state x="248" y="329" key="FileChooserDialogImpl" timestamp="1590910519437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="248" y="329" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590910519437" />
+    <state x="831" y="462" width="382" height="167" key="Github.CreateGistDialog" timestamp="1590910208083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="831" y="462" width="382" height="167" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590910208083" />
+    <state x="886" y="439" width="273" height="212" key="Github.ShareDialog" timestamp="1590910179210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="886" y="439" width="273" height="212" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590910179210" />
+    <state width="775" height="294" key="GridCell.Tab.0.bottom" timestamp="1590911276840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="775" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590911276840" />
+    <state width="775" height="294" key="GridCell.Tab.0.center" timestamp="1590911276840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="775" height="294" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590911276840" />
+    <state width="775" height="294" key="GridCell.Tab.0.left" timestamp="1590911276840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="775" height="294" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590911276840" />
+    <state width="775" height="294" key="GridCell.Tab.0.right" timestamp="1590911276840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="775" height="294" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590911276840" />
+    <state width="775" height="294" key="GridCell.Tab.1.bottom" timestamp="1590911276840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="775" height="294" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590911276840" />
+    <state width="775" height="294" key="GridCell.Tab.1.center" timestamp="1590911276840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="775" height="294" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590911276840" />
+    <state width="775" height="294" key="GridCell.Tab.1.left" timestamp="1590911276840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="775" height="294" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590911276840" />
+    <state width="775" height="294" key="GridCell.Tab.1.right" timestamp="1590911276840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="775" height="294" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590911276840" />
+    <state x="602" y="279" key="Vcs.Push.Dialog.v2" timestamp="1590911650094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="602" y="279" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590911650094" />
+    <state width="700" height="418" key="XDebugger.FullValuePopup" timestamp="1587726956510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="700" height="418" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1587726956510" />
+    <state x="305" y="187" width="1411" height="717" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590911691372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="305" y="187" width="1411" height="717" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590911691372" />
+    <state x="695" y="313" key="com.intellij.ide.util.TipDialog" timestamp="1589642521131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="695" y="313" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589642521131" />
+    <state x="803" y="463" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590911480533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="463" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590911480533" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586422144267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586422144267" />
+    <state x="840" y="337" key="svn.repositoryBrowser" timestamp="1590910328940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="840" y="337" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1590910328940" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/updateAlignByLine.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="sis" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Test$test.coverage" NAME="test Coverage Results" MODIFIED="1588133161759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$updateAlignByLine.coverage" NAME="updateAlignByLine Coverage Results" MODIFIED="1590123331626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$audiobookperparedata.coverage" NAME="audiobookperparedata Coverage Results" MODIFIED="1588093431184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$FindAlign.coverage" NAME="FindAlign Coverage Results" MODIFIED="1585721507188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$read_rawdata_from_binary.coverage" NAME="read_rawdata_from_binary Coverage Results" MODIFIED="1585625827130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$contrain.coverage" NAME="contrain Coverage Results" MODIFIED="1584361858675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$findText.coverage" NAME="findText Coverage Results" MODIFIED="1584624828063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$forceAlignPrepare.coverage" NAME="forceAlignPrepare Coverage Results" MODIFIED="1586520368290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$audiobookmergedata.coverage" NAME="audiobookmergedata Coverage Results" MODIFIED="1588093556698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$filter.coverage" NAME="filter Coverage Results" MODIFIED="1584348923468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$rename.coverage" NAME="rename Coverage Results" MODIFIED="1587109255673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$quchogn.coverage" NAME="quchogn Coverage Results" MODIFIED="1586711322344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$npytotext.coverage" NAME="npytotext Coverage Results" MODIFIED="1589125329200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$updateAlignbyTxt.coverage" NAME="updateAlignbyTxt Coverage Results" MODIFIED="1589914773008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$updateAlign.coverage" NAME="updateAlign Coverage Results" MODIFIED="1589903184751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$datafilterbasedSRAlign.coverage" NAME="datafilterbasedSRAlign Coverage Results" MODIFIED="1584039419781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$XmlHandler.coverage" NAME="XmlHandler Coverage Results" MODIFIED="1581500796043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$audiobookperparedatastep2.coverage" NAME="audiobookperparedatastep2 Coverage Results" MODIFIED="1588059651362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

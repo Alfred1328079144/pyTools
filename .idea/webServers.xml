@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fdacad92-e462-4137-abfa-61ec4460b398" name="https://github.com/Alfred1328079144/pyTools.git" url="https://github.com/Alfred1328079144/pyTools.git">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
